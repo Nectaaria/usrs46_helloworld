@@ -1,0 +1,11 @@
+# TITRE VRAIMENT SUPER DEPUIS LE DEPOT LOCAL
+
+He bien joué ! Vous avez réussi à récupérer le dossier usrs46 sur mon profile GitHub !
+
+A votre tour d'ajouter un message en dessous de celui-ci et d'envoyer vos changement sur mon dépôt distant :
+1 - Modifier le fichier helloworld.txt
+2 - Ajouter le fichier à votre Index (git add)
+3 - Préparer l'envoie avec un commit et un joli message (git commit -m)
+4 - Envoyer votre fichier mis à jour sur mon dépôt (git push)
+
+A vous de jouer !
